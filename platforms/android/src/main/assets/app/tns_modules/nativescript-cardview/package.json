@@ -1,0 +1,127 @@
+{
+  "_from": "nativescript-cardview",
+  "_id": "nativescript-cardview@2.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-SevEbtuMRcqTUVwWByjN5BYdDUjwIVD2WcBjQXP6kXeg5+XY0vc+ZIz8DDFDRogWqhOqZOEomp7+Vd20XgBsew==",
+  "_location": "/nativescript-cardview",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "nativescript-cardview",
+    "name": "nativescript-cardview",
+    "escapedName": "nativescript-cardview",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "http://nexus3.preventsenior.io/repository/npm-all/nativescript-cardview/-/nativescript-cardview-2.0.3.tgz",
+  "_shasum": "6dd7ab3077937d14185ed461eb4a71826e765416",
+  "_spec": "nativescript-cardview",
+  "_where": "/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app",
+  "author": {
+    "name": "Brad Martin",
+    "email": "bmartin@nstudio.io",
+    "url": "https://github.com/bradmartin"
+  },
+  "bugs": {
+    "url": "https://github.com/bradmartin/nativescript-cardview/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Nathanael Anderson",
+      "email": "nathan@master-technology.com",
+      "url": "https://github.com/nathanaela"
+    },
+    {
+      "name": "Nathan Walker",
+      "email": "walkerrunpdx@gmail.com",
+      "url": "https://github.com/NathanWalker"
+    },
+    {
+      "name": "Ned",
+      "url": "https://github.com/manijak"
+    },
+    {
+      "name": "Vladimir Nani",
+      "email": "vladimirnani@gmail.com",
+      "url": "https://github.com/vladimirnani"
+    },
+    {
+      "name": "Stanimira Vlaeva",
+      "email": "stanimira.vlaeva@gmail.com",
+      "url": "https://github.com/sis0k0"
+    },
+    {
+      "name": "Eddy Verbruggen",
+      "email": "eddyverbruggen@gmail.com",
+      "url": "https://github.com/EddyVerbruggen"
+    },
+    {
+      "name": "Dick Smith",
+      "url": "https://github.com/DickSmith"
+    },
+    {
+      "name": "Daniel Leal",
+      "url": "https://github.com/danielgek"
+    }
+  ],
+  "deprecated": false,
+  "description": "A NativeScript plugin for Material Design CardView component.",
+  "devDependencies": {
+    "husky": "^0.13.4",
+    "lint-staged": "^3.6.1",
+    "prettier": "^1.4.4",
+    "tns-core-modules": "~3.2.0",
+    "tns-platform-declarations": "~3.2.0",
+    "typescript": "2.5.2"
+  },
+  "homepage": "https://github.com/bradmartin/nativescript-cardview",
+  "keywords": [
+    "NativeScript",
+    "TypeScript",
+    "Card",
+    "android",
+    "ios",
+    "CardView",
+    "Material Design"
+  ],
+  "license": "Apache-2.0",
+  "lint-staged": {
+    "*.ts": [
+      "prettier --write",
+      "git add"
+    ]
+  },
+  "main": "cardview",
+  "name": "nativescript-cardview",
+  "nativescript": {
+    "platforms": {
+      "android": "3.0.0",
+      "ios": "3.0.0"
+    }
+  },
+  "peerDependencies": {
+    "tns-core-modules": "~3.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradmartin/nativescript-cardview.git"
+  },
+  "scripts": {
+    "build": "tsc",
+    "debug.ios": "npm run preparedemo; cd demo; tns debug ios",
+    "demo.android": "npm run preparedemo; cd demo; tns run android",
+    "demo.ios": "npm run preparedemo; cd demo; tns run ios",
+    "precommit": "lint-staged",
+    "preparedemo": "npm run build; cd demo; tns plugin remove nativescript-cardview; tns plugin add ..",
+    "setup": "npm i && npm run build && cd demo && tns plugin add .. && cd .."
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.3"
+}

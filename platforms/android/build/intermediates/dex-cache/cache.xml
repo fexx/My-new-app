@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-core-ui-26.0.0-alpha1_aef957495e2228d7af2bca95d35985275d569d68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-appcompat-v7-26.0.0-alpha1_acff340c61842deb0f3b8d7684c5049a06048436.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-animated-vector-drawable-26.0.0-alpha1_544f340093b482d99178cd542bd3b3df3540f08b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-vector-drawable-26.0.0-alpha1_ad8d36badbf55e7ef14e000c2791be49a08e54f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/exploded-aar/test/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/binding-generator_ec5632ef59469e768beaf32c474ee9def624cd46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-media-compat-26.0.0-alpha1_ada700fd881c18d446735e1a206a397fc8425b15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-v4-26.0.0-alpha1_96ce2c285b390e365a19c54546c9a97a673ad654.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/exploded-aar/Data-2017.1.1003-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a690a9ad791e20a8e6bfa1f39c4df912499d2472">
+        <dex dex="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-Data-2017.1.1003-dev-release_5334f50639ceb73a8b3e6b23fc867d676973f8e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/exploded-aar/Gauges-2017.1.1003-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="763441cc6a990002aed18218e3bb277961816ea4">
+        <dex dex="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-Gauges-2017.1.1003-dev-release_2694836955d9a0044157e06a9d433ade6b6e82a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-widgets-release_3e18817e18e30f5df45dea7fc5635658a23659ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-compat-26.0.0-alpha1_2ca771193d58ea7f40bad8cf85e8597756f7621b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fernando/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/support-annotations-26.0.0-alpha1_1d22d5454ed274c04767e69d952b58dfd2b8e0a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-design-26.0.0-alpha1_9b761f2fff107be6f2cf4503e3ce147ae82fa09d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/exploded-aar/Common-2017.1.1003-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="29bb374c9fd569ea5fad2e6729c255c3717382c9">
+        <dex dex="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-Common-2017.1.1003-dev-release_b5dbb3a505fddb980ed4caa25fad0782abb93323.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-recyclerview-v7-26.0.0-alpha1_859204ab978ba01624794f21861f5a0c0b77163e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/exploded-aar/Chart-2017.1.1003-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="669d0795783c3d477c08aa18fb0457829a1292ac">
+        <dex dex="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-Chart-2017.1.1003-dev-release_3af75e6d69ec7b65a4b874a96891c70c0c6beb60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-core-utils-26.0.0-alpha1_ab968e3718bf60f97a81e4a53715de8c21b21787.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-transition-26.0.0-alpha1_b35791cecb41c594e16d4ef9b0d03a185fa897cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/exploded-aar/com.android.support/cardview-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-cardview-v7-26.0.0-alpha1_18277c2bd958a47dd0c0162968bd435680268767.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/exploded-aar/Feedback-2017.1.1003-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="99917b3cc83bb26c61fe0fa886ef55ee8005e9bf">
+        <dex dex="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-Feedback-2017.1.1003-dev-release_09e226dafac012589d1d5a67e2fa110d62bad881.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/exploded-aar/List-2017.1.1003-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ccf00b7aa2472bfe1e92931c49e46d9103742149">
+        <dex dex="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-List-2017.1.1003-dev-release_c667ccb040ba7a92de787b7dd7a0f1ac22c98e6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/exploded-aar/test/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="eb6078500d1af5e7b663871706674405c57292a3">
+        <dex dex="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/test-runtime-unspecified_3eb21615be6a2d9f76957529983ca88df3e4b820.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/exploded-aar/Input-2017.1.1003-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7279ec5fcf43856d4563c37f6b911e6289500106">
+        <dex dex="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-Input-2017.1.1003-dev-release_8f770a5e2dd4df800ef1d1ea6658e9b48b00dcf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/exploded-aar/Primitives-2017.1.1003-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dea5032193895bd143e997736b2842b1dffd1dcf">
+        <dex dex="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-Primitives-2017.1.1003-dev-release_edffd5555f6b90e9fa132e2898261f7cf0b1fc8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-fragment-26.0.0-alpha1_407706eec7703d33a6c57db0bfa24dab230e10be.jar" />
+    </item>
+
+</items>

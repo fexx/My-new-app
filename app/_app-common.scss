@@ -52,6 +52,8 @@
 
  .wallpaper {
     background-image: url('~/assets/hb.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
   }
 
  .teste-cor {
@@ -60,4 +62,9 @@
 
   .espaco {
       padding: 10px;
+  }
+
+  .logo-loja {
+    padding: 50%;
+    border:  1px solid #000000;
   }

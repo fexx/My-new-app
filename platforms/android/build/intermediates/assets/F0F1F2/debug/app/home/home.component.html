@@ -1,0 +1,76 @@
+<ActionBar class="action-bar">
+    <!-- 
+    Use the NavigationButton as a side-drawer button in Android because ActionItems are shown on the right side of the ActionBar
+    -->
+    <NavigationButton ios:visibility="collapsed" icon="res://menu" (tap)="onDrawerButtonTap()"></NavigationButton>
+    <!-- 
+    Use the ActionItem for IOS with position set to left. Using the NavigationButton as a side-drawer button in iOS is not possible, because its function is to always navigate back in the application.
+    -->
+    <ActionItem icon="res://navigation/menu" android:visibility="collapsed" (tap)="onDrawerButtonTap()"
+        ios.position="left">
+    </ActionItem>
+    <Label class="action-bar-title" text="Home"></Label>
+</ActionBar>
+
+<!--
+RadSideDrawer is a UI component part of the Progress NativeScript UI set of components.
+Learn more about the RadSideDrawer UI component and how it can be customized in this documentation article:
+http://docs.telerik.com/devtools/nativescript-ui/Controls/Angular/SideDrawer/getting-started
+The RadSideDrawer component is designed to be used as a root element and
+it shouldn't have any other siblings other than the <ActionBar> component.
+-->
+<RadSideDrawer #drawer showOverNavigation="true" [drawerTransition]="sideDrawerTransition">
+    <!--
+    Use the tkDrawerContent directive to display the content of the app drawer on this page.
+    -->
+    <StackLayout tkDrawerContent>
+        <MyDrawer [selectedPage]="'Home'"></MyDrawer>
+    </StackLayout>
+    
+    <!--
+    Use the tkMainContent directive to display the content of the page when you have an app drawer.
+    <GridLayout class="page page-content" tkMainContent>
+        <Label class="page-icon fa" text="&#xf015;"></Label>
+        <Label class="page-placeholder" text=""></Label>
+    </GridLayout>
+-->
+<ScrollView class="page page-content teste-cor" tkMainContent>
+    <StackLayout class="inittt" margin="5">
+
+        <CardView class="cardStyle" margin="10" elevation="40" radius="1" >
+            <GridLayout rows="10,30,30,250, auto, auto,10" columns="10,40, *, 30,10">
+                <Image src="res://logo" stretch="aspectFit" verticalAlignment="stretch" col="1" row="1" rowSpan="2"></Image>
+                <Label class="createdBy text-left" horizontalAlignment="left" text="sadasdsa" row="1" col="2" textWrap="true"></Label>
+                <Label class="createdOn text-left" horizontalAlignment="left" text="dasdasdasde" row="2" col="2"></Label>
+                <Image [src]="'https://cdn-jpg3.thedailymeal.com/sites/default/files/styles/hero_image_breakpoints_theme_tdmr_md_1x/public/2-hamburger-recipe-shutterstock.jpg'" stretch="aspectFit" colSpan="3" col="1" row="3"></Image>
+                <Label horizontalAlignment="left" text="dsadasd" colSpan="3" row="4" textWrap="true" col="1"></Label>
+                <Label  horizontalAlignment="left" text="das" textWrap="true" col="1" row="5" colSpan="3"></Label>
+            </GridLayout>
+        </CardView>
+
+
+        <StackLayout class="padding-card borda-redonda" nsShadow="2">
+            <Label width="95%" height="200" class="page-icon fa teste wallpaper"></Label>
+            <Label width="95%" height="50" text="Teste " class="teste description espaco" textWrap="true"></Label>
+        </StackLayout>
+        <StackLayout class="padding-card borda-redonda" nsShadow="2">
+                <Label width="95%" height="200" class="page-icon fa teste wallpaper"></Label>
+                <Label width="95%" height="50" text="Teste " class="teste description espaco" textWrap="true"></Label>
+            </StackLayout>
+            <StackLayout class="padding-card borda-redonda" nsShadow="2">
+                    <Label width="95%" height="200" class="page-icon fa teste wallpaper"></Label>
+                    <Label width="95%" height="50" text="Teste " class="teste description espaco" textWrap="true"></Label>
+                </StackLayout>
+                <StackLayout class="padding-card borda-redonda" nsShadow="2">
+                        <Label width="95%" height="200" class="page-icon fa teste wallpaper"></Label>
+                        <Label width="95%" height="50" text="Teste " class="teste description espaco" textWrap="true"></Label>
+                    </StackLayout>
+                    <StackLayout class="padding-card borda-redonda" nsShadow="2">
+                            <Label width="95%" height="200" class="page-icon fa teste wallpaper"></Label>
+                            <Label width="95%" height="50" text="Teste " class="teste description espaco" textWrap="true"></Label>
+                        </StackLayout>
+    </StackLayout> 
+
+</ScrollView>    
+
+</RadSideDrawer>

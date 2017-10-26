@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-hdpi/background.png",
+        "source": "/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/src/main/res/drawable-hdpi/background.png"
+    },
+    {
+        "merged": "/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-hdpi/logo.png",
+        "source": "/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/src/main/res/drawable-hdpi/logo.png"
+    },
+    {
+        "merged": "/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-hdpi/menu.png",
+        "source": "/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/src/main/res/drawable-hdpi/menu.png"
+    },
+    {
+        "merged": "/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-hdpi/icon.png",
+        "source": "/home/fernando/Desenvolvimento/woks/nativeScript/My-new-app/platforms/android/src/main/res/drawable-hdpi/icon.png"
+    }
+]
